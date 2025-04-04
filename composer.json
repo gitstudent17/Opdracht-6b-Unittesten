@@ -1,0 +1,16 @@
+{
+    "name": "tdmwo/opdracht_unittest_calculator",
+    "autoload": {
+        "psr-4": {
+            "Login\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ish"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^12.0"
+    }
+}
